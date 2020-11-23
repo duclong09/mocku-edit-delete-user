@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "longteo",
+      "username": "longteo09",
+      "email": "longteo@gmail.com",
+      "phone": "123123123",
+      "website": "stackoverflow.com",
+      "id": 1
+    },
+    {
+      "name": "Tran Cong Hoa",
+      "username": "hoatran",
+      "email": "conhoa@gmail.com",
+      "phone": "13123123123",
+      "website": "blog.vn",
+      "id": 2
+    }
+  ]
+}
